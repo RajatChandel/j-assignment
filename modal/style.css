@@ -3,10 +3,12 @@
 	font-size: 20px;
 }
 
+
 .modal{
-background-color: #C0C0C0;
-	display: none;
-border:2px solid #060606;
+
+background-color: #000033;
+	display:none;
+border:2px solid #0000FF;
 width: 50vw;
 height: 40vh;
 justify-content: center;
@@ -22,7 +24,7 @@ min-height: 200px;
 
 	font-size: 1rem;
 	font-weight: bolder;
-color: #0066CC;
+color: #FFFFFF;
 margin: 4vh;
 
 }
